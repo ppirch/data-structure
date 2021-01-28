@@ -4,9 +4,12 @@ using namespace std;
 
 int main()
 {
+    int a;
+    string hello = "Hello";
+    cout << hello << "\n";
 
-    cout << "Hello World"
-         << "\n";
+    cin >> a;
+    cout << a << "\n";
 
     return 0;
 }
